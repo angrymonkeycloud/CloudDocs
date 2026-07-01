@@ -14,4 +14,4 @@ This section documents Angry Monkey operational standards for execution quality,
 
 ## Source Reference
 
-- https://github.com/angrymonkeydocs/operations
+- Source material is maintained internally in this repository.

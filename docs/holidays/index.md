@@ -16,5 +16,4 @@ This section defines how Angry Monkey teams plan campaigns and content around in
 
 ## Source References
 
-- https://github.com/angrymonkeydocs/holidays-and-observance
-- https://www.abl.org.lb/english/abl-and-banking-sector-news/official-holidays
+- Internal source references are maintained in this repository.

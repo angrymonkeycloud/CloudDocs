@@ -10,5 +10,4 @@ This section covers development-specific guidance with focus on compatibility, q
 
 ## Source References
 
-- https://github.com/angrymonkeydocs/development
-- https://github.com/angrymonkeydocs/operations
+- Internal source references are maintained in the repository history and changelog.

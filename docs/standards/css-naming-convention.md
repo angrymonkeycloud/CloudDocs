@@ -116,7 +116,3 @@ main {
 
 - This is the canonical CSS naming standard for Angry Monkey Cloud managed documentation.
 - New UI patterns should align with this format unless a documented exception is approved.
-
-## Source Reference
-
-Original foundation: https://github.com/angrymonkeydocs/css-naming-convention

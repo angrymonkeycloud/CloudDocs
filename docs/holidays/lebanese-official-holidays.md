@@ -15,8 +15,7 @@ Lebanese official holidays can change annually due to moon-sighting and ministry
 
 ## Reference Source
 
-- Official listing reference: https://www.abl.org.lb/english/abl-and-banking-sector-news/official-holidays
-- Historical source context: https://github.com/angrymonkeydocs/holidays-and-observance
+- Official listing reference and historical source context are maintained internally in this repository.
 
 ## Recommended Operational Workflow
 

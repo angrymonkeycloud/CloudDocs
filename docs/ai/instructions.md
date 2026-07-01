@@ -3,7 +3,7 @@
 
 Managed baseline conventions for AI-assisted work across Angry Monkey projects.
 
-> This page adapts the CloudMate default instructions and extends them with documentation and SEO practices for this repository.
+> This page defines the default Angry Monkey Cloud instructions and extends them with documentation and SEO practices for this repository.
 
 ## C# Style
 

@@ -91,4 +91,4 @@ This calendar consolidates commonly used observances from the Angry Monkey Docs 
 
 ## Source Reference
 
-Original source list: https://github.com/angrymonkeydocs/holidays-and-observance
+Original source list is maintained internally in this repository.
