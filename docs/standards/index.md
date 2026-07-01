@@ -1,11 +1,3 @@
----
-title: Standards Documentation
-description: Standards and conventions for naming, structure, and implementation quality across Angry Monkey projects.
-keywords:
-  - standards
-  - conventions
-  - naming
----
 
 # Standards Documentation
 

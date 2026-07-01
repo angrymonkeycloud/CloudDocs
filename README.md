@@ -1,14 +1,3 @@
----
-title: Angry Monkey Cloud Documentation Hub
-description: Central documentation hub managed by Angry Monkey Cloud, including standards, naming conventions, operations playbooks, holidays, and development guidance.
-keywords:
-  - Angry Monkey documentation
-  - standards
-  - naming conventions
-  - operations
-  - development
-  - holidays
----
 
 # Angry Monkey Cloud Documentation Hub
 

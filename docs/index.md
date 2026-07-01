@@ -1,11 +1,3 @@
----
-title: Documentation Index
-description: Master index for Angry Monkey Cloud documentation across AI instructions, standards, operations, development, and holidays.
-keywords:
-  - documentation index
-  - Angry Monkey Cloud docs
-  - operations documentation
----
 
 # Documentation Index
 

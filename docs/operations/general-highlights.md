@@ -1,11 +1,3 @@
----
-title: General Operations Highlights
-description: Core operations guidelines for communication, file handling, quality control, and collaboration.
-keywords:
-  - operations highlights
-  - client communication
-  - quality process
----
 
 # General Operations Highlights
 

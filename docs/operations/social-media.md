@@ -1,11 +1,3 @@
----
-title: Social Media Operations Standard
-description: Operational standards for social media account management, content planning, technical specs, and reporting.
-keywords:
-  - social media operations
-  - content planning
-  - social media workflow
----
 
 # Social Media Operations Standard
 

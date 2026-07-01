@@ -1,11 +1,3 @@
----
-title: Azure DevOps Workflow Standard
-description: Default Azure DevOps board and workflow setup for Angry Monkey projects.
-keywords:
-  - Azure DevOps workflow
-  - project board setup
-  - agile operations
----
 
 # Azure DevOps Workflow Standard
 

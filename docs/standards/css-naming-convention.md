@@ -1,12 +1,3 @@
----
-title: CSS Naming Convention Standard
-description: Official Angry Monkey CSS naming convention for scalable, maintainable, and consistent front-end architecture.
-keywords:
-  - CSS naming convention
-  - LESS naming
-  - Angry Monkey CSS standards
-  - front-end conventions
----
 
 # CSS Naming Convention Standard
 

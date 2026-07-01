@@ -1,12 +1,3 @@
----
-title: Operations Documentation
-description: Operations playbooks for Angry Monkey teams covering client workflows, social media, websites, file standards, logo standards, and Azure DevOps setup.
-keywords:
-  - operations
-  - social media operations
-  - file management standards
-  - Azure DevOps workflow
----
 
 # Operations Documentation
 

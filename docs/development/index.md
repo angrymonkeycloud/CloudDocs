@@ -1,11 +1,3 @@
----
-title: Development Documentation
-description: Development guidance for email and web workflows used by Angry Monkey teams.
-keywords:
-  - development standards
-  - email development
-  - web development workflow
----
 
 # Development Documentation
 

@@ -1,12 +1,3 @@
----
-title: Holiday and Observance Calendar
-description: Structured annual holiday and observance planning calendar for social media, content, and marketing execution.
-keywords:
-  - holiday calendar
-  - observance planning
-  - social media holidays
-  - content calendar
----
 
 # Holiday and Observance Calendar
 

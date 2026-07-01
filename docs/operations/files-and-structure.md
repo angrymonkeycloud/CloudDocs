@@ -1,11 +1,3 @@
----
-title: File and Folder Standards
-description: Standardized file and folder structure for documents, client drive handling, and project delivery packaging.
-keywords:
-  - file naming standards
-  - folder structure
-  - operations file management
----
 
 # File and Folder Standards
 

@@ -1,11 +1,3 @@
----
-title: Email Development Standards
-description: Email development standards for compatibility-focused HTML email implementation.
-keywords:
-  - HTML email standards
-  - email compatibility
-  - safe email fonts
----
 
 # Email Development Standards
 

@@ -1,11 +1,3 @@
----
-title: Web Development Workflow
-description: Web development workflow and handoff model for design-to-development execution.
-keywords:
-  - web development workflow
-  - design handoff
-  - implementation readiness
----
 
 # Web Development Workflow
 

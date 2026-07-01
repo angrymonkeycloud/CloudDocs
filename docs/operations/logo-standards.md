@@ -1,11 +1,3 @@
----
-title: Logo Standards
-description: Logo design and delivery standards including color usage, presentation, and handoff expectations.
-keywords:
-  - logo standards
-  - brand identity
-  - logo delivery
----
 
 # Logo Standards
 

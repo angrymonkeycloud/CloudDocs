@@ -1,11 +1,3 @@
----
-title: Lebanese Official Holidays Reference
-description: Lebanese official holiday reference used for campaign planning and publishing calendars.
-keywords:
-  - Lebanon holidays
-  - Lebanese official holidays
-  - campaign scheduling Lebanon
----
 
 # Lebanese Official Holidays Reference
 

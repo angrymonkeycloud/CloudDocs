@@ -1,11 +1,3 @@
----
-title: Websites Operations Standard
-description: Design and handoff standards for website projects including structure, assets, naming, and mobile readiness.
-keywords:
-  - website operations
-  - website design standards
-  - handoff standards
----
 
 # Websites Operations Standard
 

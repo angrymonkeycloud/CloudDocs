@@ -1,12 +1,3 @@
----
-title: Holidays and Observance Documentation
-description: Holiday and observance documentation used for content planning, campaign alignment, and publication scheduling.
-keywords:
-  - holidays
-  - observance calendar
-  - campaign calendar
-  - Angry Monkey
----
 
 # Holidays and Observance Documentation
 
