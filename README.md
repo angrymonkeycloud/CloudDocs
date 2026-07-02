@@ -35,6 +35,7 @@ This hub consolidates and professionalizes guidance originally maintained in:
 
 - https://github.com/angrymonkeydocs/css-naming-convention
 - https://github.com/angrymonkeydocs/holidays-and-observance
+- https://github.com/angrymonkeydocs/azure-devops
 - https://github.com/angrymonkeydocs/operations
 - https://github.com/angrymonkeydocs/development
 
