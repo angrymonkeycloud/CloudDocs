@@ -5,6 +5,22 @@ Managed baseline conventions for AI-assisted work across Angry Monkey projects.
 
 > This page defines the default Angry Monkey Cloud instructions and extends them with documentation and SEO practices for this repository.
 
+## How to Use These Instructions
+
+When using an AI assistant to generate, modify, or review code in this repository, provide the AI with the repository guidance first.
+
+Use the following prompt before starting AI-assisted work:
+
+```text
+Follow the Angry Monkey Cloud AI instructions for this repository:
+
+https://github.com/angrymonkeycloud/CloudDocs/blob/main/docs/ai/instructions.md
+
+Use these instructions when generating, modifying, or reviewing code. Apply them as the baseline for C# style, static assets, documentation, SEO, and project precedence rules.
+```
+
+If this repository has its own project-specific AI instructions, those instructions take precedence when they conflict with the general Angry Monkey Cloud guidance.
+
 ## C# Style
 
 - Prefer explicit types over `var`. Use `var` only when the type is obvious from the right-hand side, the type name is long/generic, or usage is idiomatic and well known, such as Entity Framework Core queries.
