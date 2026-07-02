@@ -22,7 +22,7 @@ Managed baseline conventions for AI-assisted work across Angry Monkey projects.
 ## Static Assets (CSS, JS, Images)
 
 - Never author `.css` files directly. Author `.less` files instead.
-- Source static assets (`.less`, `.js`/`.ts`, images) must live under `src/` in a subfolder matching their type (for example: `src/css`, `src/js`, `src/images`).
+- Source static assets (`.less`, `.js`/`.ts`, images) must live under `src/` in a subfolder matching their type (for example: `src/css`, `src/js`, `src/img`).
 - Razor isolated styles (`Component.razor` + `Component.razor.less`) compile to a co-located `Component.razor.css` file. Never hand-author the isolated `.razor.css`.
 - Generic `.less` files compile into `wwwroot/css`.
 - If a source `.less` file does not exist yet, create it under `src/css` first, then compile to `wwwroot/css`.
