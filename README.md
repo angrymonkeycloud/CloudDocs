@@ -12,6 +12,7 @@ This repository is the centralized documentation source for Angry Monkey teams a
 
 ## Documentation Map
 
+- Core index: [docs/index.md](docs/index.md)
 - AI instructions: [docs/ai/instructions.md](docs/ai/instructions.md)
 
 > [!NOTE]
@@ -23,7 +24,6 @@ This repository is the centralized documentation source for Angry Monkey teams a
 > - [AI Instructions](https://github.com/angrymonkeycloud/CloudDocs/blob/main/docs/ai/instructions.md)
 > ```
 
-- Core index: [docs/index.md](docs/index.md)
 - Standards: [docs/standards/index.md](docs/standards/index.md)
 - Holidays and observance: [docs/holidays/index.md](docs/holidays/index.md)
 - Operations: [docs/operations/index.md](docs/operations/index.md)
