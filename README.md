@@ -29,16 +29,6 @@ This repository is the centralized documentation source for Angry Monkey teams a
 - Operations: [docs/operations/index.md](docs/operations/index.md)
 - Development: [docs/development/index.md](docs/development/index.md)
 
-## Included Source Domains
-
-This hub consolidates and professionalizes guidance originally maintained in:
-
-- https://github.com/angrymonkeydocs/css-naming-convention
-- https://github.com/angrymonkeydocs/holidays-and-observance
-- https://github.com/angrymonkeydocs/azure-devops
-- https://github.com/angrymonkeydocs/operations
-- https://github.com/angrymonkeydocs/development
-
 ## SEO Implementation Notes
 
 - Every page starts with a descriptive title and summary paragraph.
